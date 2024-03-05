@@ -1,0 +1,91 @@
+.email-adress{
+    color: #fff;
+    font-family: "Roboto";
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+       
+}
+
+.acess-password{
+    color:#fff;
+    font-family: "Roboto";
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.botao{
+    color: #fff;
+    border-radius: 10px;
+    padding-top: 30px;
+    background-color: green;
+    width: 97px;
+    height: 47px;
+    font-family: "Poppins";
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 32px; 
+    padding-left: 79px;
+    padding-bottom: 32px; 
+    padding-right: 79px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.clique{
+    padding-top: 35px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+*{
+    background-color: #000;
+}
+
+#senha{
+    width: 466px;
+    height: 50px;
+    top: 222.72px;
+    left: 98px;
+    border-radius: 4.02px;
+    border: 1.61px #C5C2C2;
+    background-color: #353535;
+    /* display: block; */
+    /* display: flex; */
+    
+    
+}
+
+#email{
+    width: 466px;
+    height: 50px;
+    top: 222.72px;
+    left: 98px;
+    border-radius: 4.02px;
+    border: 1.61px #C5C2C2;
+    background-color: #353535; 
+    /* display: block; */
+    /* display: flex; */
+   
+}
+#acesso{
+    display: block;
+}
+
+#contact{
+    display: block;
+}
+
+.imagem{
+    text-align: center;
+}
